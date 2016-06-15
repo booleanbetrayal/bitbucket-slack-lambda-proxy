@@ -1,0 +1,1 @@
+bitbucket-slack-lambda-proxy is a AWS Lambda script that acts as a webhook proxy for incoming Bitbucket notifications, handing them off to a Slack channel in well-formatted messages.
